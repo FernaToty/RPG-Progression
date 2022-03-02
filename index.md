@@ -19,16 +19,16 @@ In this research article, I’ll talk about progression systems, specifically, w
 ### Progression systems
 What is the objective of a good progression system?
  
--Essentially, a good RPG progression system objective is to make the player not detect the infinite game loop that every game has.
--Avoid the feeling of repetition of the same action over and over again while the player is playing.
--Provide the player with a good and long-term decision making system, which let him take decisions for future sessions of playing.
--Having a good game progression means having a balanced progression, if we are not able to achieve this, our player will be frustrated due to it.
+- Essentially, a good RPG progression system objective is to make the player not detect the infinite game loop that every game has.
+- Avoid the feeling of repetition of the same action over and over again while the player is playing.
+- Provide the player with a good and long-term decision making system, which let him take decisions for future sessions of playing.
+- Having a good game progression means having a balanced progression, if we are not able to achieve this, our player will be frustrated due to it.
 
 ### How does a bad progression system look like?
 
-We will find that the player feels that he is repeating the process over and over again without finding any motivation to keep playing, he gets bored so fast.
-We find skinner boxes, the game loop is boring and repetitive, the game bases its loop in repeating actions and rewarding randomly the player when he does an especific action.
-A clear example of good progression system lack are games that abuse of 'grinding'. It is something that is not bad to do sometimes but, if the game progression is based on that, the game will be so repetitive and boring for the player.
+- We will find that the player feels that he is repeating the process over and over again without finding any motivation to keep playing, he gets bored so fast.
+- We find skinner boxes, the game loop is boring and repetitive, the game bases its loop in repeating actions and rewarding randomly the player when he does an especific action.
+- A clear example of good progression system lack are games that abuse of 'grinding'. It is something that is not bad to do sometimes but, if the game progression is based on that, the game will be so repetitive and boring for the player.
 
 
 
