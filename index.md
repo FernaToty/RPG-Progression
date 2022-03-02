@@ -142,14 +142,9 @@ When we know what do we want to change, we enter in the game tunning phase, it i
 
 # Webgraphy
 
-- Progression and emergence
-- Skill progression in RPGs based on play style
-- How to make an RPG
-- Only a game
-- Level up
-- How To Balance An RPG
-- BreakPoints
-- Progression Systems E.C
+- https://www.rpgmakerweb.com/all-posts
+- https://www.gamedeveloper.com/design/skill-progression-in-rpgs-based-on-play-style
+- http://howtomakeanrpg.com/a/how-to-make-an-rpg-levels.html
 - https://www.davideaversa.it/2018/02/gamedesign-math-rpg-level-based-progression/
 - https://www.youtube.com/watch?v=tWtvrPTbQ_c
 - https://gamedev.stackexchange.com/questions/59589/rpg-level-experience-formula
