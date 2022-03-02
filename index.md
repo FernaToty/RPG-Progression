@@ -41,6 +41,8 @@ To achieve this we have to meet three conditions:
 
 If we meet these three conditions our player will feel that he has our game under control, something that allow us to keep him playing and satisfied.
 
+![Reset abilities](https://user-images.githubusercontent.com/72808136/156408524-f92d6041-2cde-4f7b-8c17-95e48767c51b.png)
+
 ### What is a progression system and why is it important?
 
 A progression system is a combination of mechanics which forces the player to make actions with determined goals, and these must complete them in order to move forward. The player will be able to carry out activities during the whole game and along the way, he might be able to unlock new content and new knowledge to learn (new abilities, more quest, etc).
@@ -51,16 +53,23 @@ In order to success in having a good progression system, there are some key elem
 
 - Great mechanics which makes the player feel satisfaction when interacting with the different elements of your game such as weapons and  abilities. In order to do this you could use what is called mechanics progression, which is a way to control the way the player learns the different elements of the game over time, there are two types of mechanics progression:
   - Some mechanics are unavailable at first and will be introduced progressively when playing the game
+  
+  ![Game Mechanics](https://user-images.githubusercontent.com/72808136/156408881-c17b440c-8459-4d7f-a49d-30d265bc77fd.png)
+
 
 
   - All the mechanics are introduced at first but developers use the gameplay in order to induce them. An example of games which have this system will be the games developed by FromSoftware (Dark souls saga and bloodborne)
 
+![Dark Souls](https://user-images.githubusercontent.com/72808136/156408825-496cdbbf-43e0-483f-a256-c2d49b218ae5.png)
 
 
 - As a developer, you want to have as most control as possible on how much time the player might be taken when leveling up, completing a quest, stage,… And use it in  order to improve the experience and balancing matters, player can’t spend  unnecessary time in a mission or trying to level up, because this can drive the player to frustration.
 
 - If you have any type of progression system you need to reward the players that go through them, and this reward are essential in order to make the player feel that he/she is progressing, like game modes, upgrades, unlockable content, in general, new content.
 - The secondary reward are those ones that satisfy our visual and aural stimulus, in other words, good visual and auditive effects which focus the player's attention and of course, improve the experience, e.g. when playing FPS (First Person Shooters) if you kill an enemy with a headshot a sound will play, this sound is a reward which gives positive feedback to the player and gives a satisfactory stimulus too.
+
+![CallOfDuty](https://user-images.githubusercontent.com/72808136/156408484-202004c0-e5eb-41c1-8863-bc03b3403687.jpg)
+
 
 
 - Understanding the elements that affect your games difficulty, are key in order to provide a good experience, damage dealt by enemies, weapons stats, etc. This is the main elements to take into account when creating a progression system, there are more specific elements and strategies to use to improve a progression system.
@@ -72,6 +81,10 @@ Nowadays most of the new games have a progression system, and not only from RPG 
 The reason is that is useful for the players and the developers, it's good for the player because it gives them the feeling of getting stronger, giving them a sense of progression and that the time they spend in the games is worth the time.
 
 And for the developer's progressions systems helps them to control the flow of the game, to balance it and modify it as they want (e.g. levels and experience point good tools for that ). In that way, developers are more accurate in creating a better experience, and better control in the player's actions.
+
+![flow](https://user-images.githubusercontent.com/72808136/156408676-7828d5d8-1d80-4a53-a64d-e1a36c1af969.png)
+
+
 
 # What makes a great progression system?
 
