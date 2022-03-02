@@ -4,20 +4,20 @@ Juan Fernando Almendro Martí
 
 ## Index
 
-### - Introduction
-### - Progression systems
- - How does a bad progression system look like?
- - What does progression apport?
- - What is a progression system and why is it important?
- - Why do they work?
-### -What makes a good progression system?
-### -Types of progression systems
- - Level based progression
- - Level based progression
- - Skill points progression
-### -Mathematics in RPG progression
-### -Balancing issues
-### -Webgraphy
+- Introduction
+- Progression systems
+  - How does a bad progression system look like?
+  - What does progression apport?
+  - What is a progression system and why is it important?
+  - Why do they work?
+- What makes a good progression system?
+- Types of progression systems
+  - Level based progression
+  - Level based progression
+  - Skill points progression
+- Mathematics in RPG progression
+- Balancing issues
+- Webgraphy
 
 ## Introduction
 In this research article, I’ll talk about progression systems, specifically, what is a progression system and the most common types that we can find. I will analyze the math behind these structures like progression curves and some formulas to create basic progression curves will be also included. And I’ll include some important game designs concepts which are useful to take it as a reference when creating a new one.
