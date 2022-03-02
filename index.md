@@ -50,10 +50,10 @@ Our objective when we make a game is to make our player enjoy when he is playing
 In order to success in having a good progression system, there are some key element to take into account, which are:
 
 - Great mechanics which makes the player feel satisfaction when interacting with the different elements of your game such as weapons and  abilities. In order to do this you could use what is called mechanics progression, which is a way to control the way the player learns the different elements of the game over time, there are two types of mechanics progression:
- - Some mechanics are unavailable at first and will be introduced progressively when playing the game
+  - Some mechanics are unavailable at first and will be introduced progressively when playing the game
 
 
- - All the mechanics are introduced at first but developers use the gameplay in order to induce them. An example of games which have this system will be the games developed by FromSoftware (Dark souls saga and bloodborne)
+  - All the mechanics are introduced at first but developers use the gameplay in order to induce them. An example of games which have this system will be the games developed by FromSoftware (Dark souls saga and bloodborne)
 
 
 
