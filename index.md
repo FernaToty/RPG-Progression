@@ -124,9 +124,19 @@ Some examples are AAA games, they use so complex mathematics formulas to calcule
 These are examples of XP formulas:
 - RuneScape:
 
+![runescapeMath](https://user-images.githubusercontent.com/72808136/156407328-08cdbe98-f22f-4c5b-a7c7-b589154100ad.jpg)
+
+
+
 - World of Warcraft:
 
+![WowMath](https://user-images.githubusercontent.com/72808136/156407468-9bb85569-1bef-4f16-88bb-4679722a6997.jpg)
+
 - Diablo III:
+
+![diablo3Math](https://user-images.githubusercontent.com/72808136/156407385-8140bd6e-5f12-4829-8bf6-3623466839a8.jpg)
+
+
 
 # Balancing issues
 
@@ -138,6 +148,9 @@ Even though we make a very consistent preproduction phase, we will struggle for 
 We have to test our game as much as we can to know what can be changed to balance more the game and take it to the point we want.
 
 When we know what do we want to change, we enter in the game tunning phase, it is were normally, our designers change the stats numbers or formulas in order to balance the game and bring it to our aim point.
+
+![stats](https://user-images.githubusercontent.com/72808136/156407246-381fa4df-33e5-4c86-805e-1c89b8974548.png)
+
 
 
 # Webgraphy
