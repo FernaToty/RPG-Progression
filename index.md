@@ -95,14 +95,22 @@ To make a good progression system not based on grinding we can take some element
 
 By doing some determined actions player gain XP/EXP (experience) point which allows them to level up, so the player abilities get stronger and also increases the quantity of XP the player needs to get to the next level (threshold) and the level the player currently has, represent his/her skills/experience.
 
+![RuneScape](https://user-images.githubusercontent.com/72808136/156408009-17660671-8cc0-4a98-a850-a35cdd505af3.png)
+
+
 ### Training/Play-Style progression:
 
 This system increases the attributes power the more that is used and is not driven by XP, the more distance you run the more stamina, the more kill with one-handed weapons the more strength and abilities with those… A good example of this kind of system implemented in a game could be The Elder Scrolls v: Skyrim.
+
+![Skyrim](https://user-images.githubusercontent.com/72808136/156408074-144a5fce-2442-4c26-84f2-8c917914cca3.png)
 
 
 ### Skill points progression:
 
 In this system, player improve their skills by allocating points and usually, they are able to spend it as they please which gives to the player more control over the characters growth, e.g 3 points to improve dexterity, 10 to improve archery, etc.
+
+![Blodborne](https://user-images.githubusercontent.com/72808136/156408113-77b7252b-9017-49f7-9025-0cf7e89e2303.png)
+
 
 
 Currently, most of the game doesn't only have one of these systems but multiple at the same time with slight changes in each one in order to work, as some of the last examples shown.You could have a leveling up system that instead of increasing your abilities/ attributes when the player levels up, grants you a certain number of skill points which will allow you to purchase new abilities or improve the ones the player already has.
