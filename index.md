@@ -42,6 +42,7 @@ To achieve this we have to meet three conditions:
 If we meet these three conditions our player will feel that he has our game under control, something that allow us to keep him playing and satisfied.
 
 ![Reset abilities](https://user-images.githubusercontent.com/72808136/156408524-f92d6041-2cde-4f7b-8c17-95e48767c51b.png)
+
 "Abilities"
 
 ### What is a progression system and why is it important?
@@ -56,13 +57,15 @@ In order to success in having a good progression system, there are some key elem
   - Some mechanics are unavailable at first and will be introduced progressively when playing the game
   
   ![Game Mechanics](https://user-images.githubusercontent.com/72808136/156408881-c17b440c-8459-4d7f-a49d-30d265bc77fd.png)
-  "Wow"
+ 
+ "Wow"
 
 
 
   - All the mechanics are introduced at first but developers use the gameplay in order to induce them. An example of games which have this system will be the games developed by FromSoftware (Dark souls saga and bloodborne)
 
 ![Dark Souls](https://user-images.githubusercontent.com/72808136/156408825-496cdbbf-43e0-483f-a256-c2d49b218ae5.png)
+
 "Dark Souls"
 
 
@@ -72,6 +75,7 @@ In order to success in having a good progression system, there are some key elem
 - The secondary reward are those ones that satisfy our visual and aural stimulus, in other words, good visual and auditive effects which focus the player's attention and of course, improve the experience, e.g. when playing FPS (First Person Shooters) if you kill an enemy with a headshot a sound will play, this sound is a reward which gives positive feedback to the player and gives a satisfactory stimulus too.
 
 ![CallOfDuty](https://user-images.githubusercontent.com/72808136/156408484-202004c0-e5eb-41c1-8863-bc03b3403687.jpg)
+
 "Call of Duty double kill"
 
 
@@ -87,6 +91,7 @@ The reason is that is useful for the players and the developers, it's good for t
 And for the developer's progressions systems helps them to control the flow of the game, to balance it and modify it as they want (e.g. levels and experience point good tools for that ). In that way, developers are more accurate in creating a better experience, and better control in the player's actions.
 
 ![flow](https://user-images.githubusercontent.com/72808136/156408676-7828d5d8-1d80-4a53-a64d-e1a36c1af969.png)
+
 "Flow line"
 
 
@@ -114,6 +119,7 @@ To make a good progression system not based on grinding we can take some element
 By doing some determined actions player gain XP/EXP (experience) point which allows them to level up, so the player abilities get stronger and also increases the quantity of XP the player needs to get to the next level (threshold) and the level the player currently has, represent his/her skills/experience.
 
 ![RuneScape](https://user-images.githubusercontent.com/72808136/156408009-17660671-8cc0-4a98-a850-a35cdd505af3.png)
+
 "Runescape"
 
 
@@ -122,6 +128,7 @@ By doing some determined actions player gain XP/EXP (experience) point which all
 This system increases the attributes power the more that is used and is not driven by XP, the more distance you run the more stamina, the more kill with one-handed weapons the more strength and abilities with those… A good example of this kind of system implemented in a game could be The Elder Scrolls v: Skyrim.
 
 ![Skyrim](https://user-images.githubusercontent.com/72808136/156408074-144a5fce-2442-4c26-84f2-8c917914cca3.png)
+
 "Skyrim"
 
 
@@ -130,6 +137,7 @@ This system increases the attributes power the more that is used and is not driv
 In this system, player improve their skills by allocating points and usually, they are able to spend it as they please which gives to the player more control over the characters growth, e.g 3 points to improve dexterity, 10 to improve archery, etc.
 
 ![Blodborne](https://user-images.githubusercontent.com/72808136/156408113-77b7252b-9017-49f7-9025-0cf7e89e2303.png)
+
 "Bloodborne"
 
 
