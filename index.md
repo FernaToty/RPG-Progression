@@ -144,7 +144,7 @@ In this system, player improve their skills by allocating points and usually, th
 
 ![Blodborne](https://user-images.githubusercontent.com/72808136/156408113-77b7252b-9017-49f7-9025-0cf7e89e2303.png)
 
-"Bloodborne"
+"Borderlands"
 
 
 
